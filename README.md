@@ -1,7 +1,9 @@
 # Braille
 Mobile Application in MobileApp Branch
 
-Machine Learning model for writing purposes (trained on pre-available dataset)
+Machine Learning model for writing purposes (trained on pre-available dataset) in ML-Model Branch
+
+Website in Web Branch
 
 PROBLEM STATEMENT
 

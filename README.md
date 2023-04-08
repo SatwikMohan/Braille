@@ -1,8 +1,8 @@
 # Braille
 
-![alt text](https://www.google.com/url?sa=i&url=https%3A%2F%2Fmobilefirstplatform.ibmcloud.com%2Fblog%2F2018%2F10%2F16%2FIonic-MobileFirst-Blank-Screen%2F&psig=AOvVaw0kWY59-9zzTz4w8Ko0pvQA&ust=1681077236869000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCJjmye6im_4CFQAAAAAdAAAAABAJ)
-![alt text](https://www.google.com/url?sa=i&url=https%3A%2F%2Fdesignproject.io%2Fblog%2Fbest-practices-for-website-design-for-2023&psig=AOvVaw3AL5tbnV61Iz5uAt-t5SKo&ust=1681077316408000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCMinupSjm_4CFQAAAAAdAAAAABAE)
-![alt text](https://www.google.com/url?sa=i&url=https%3A%2F%2Fbuiltin.com%2Fartificial-intelligence%2Fmachine-learning-examples-applications&psig=AOvVaw1Vvi69CSeD26BHzBBiYn-F&ust=1681077340859000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCJjeiaCjm_4CFQAAAAAdAAAAABAE)
+(https://www.google.com/url?sa=i&url=https%3A%2F%2Fmobilefirstplatform.ibmcloud.com%2Fblog%2F2018%2F10%2F16%2FIonic-MobileFirst-Blank-Screen%2F&psig=AOvVaw0kWY59-9zzTz4w8Ko0pvQA&ust=1681077236869000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCJjmye6im_4CFQAAAAAdAAAAABAJ)
+(https://www.google.com/url?sa=i&url=https%3A%2F%2Fdesignproject.io%2Fblog%2Fbest-practices-for-website-design-for-2023&psig=AOvVaw3AL5tbnV61Iz5uAt-t5SKo&ust=1681077316408000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCMinupSjm_4CFQAAAAAdAAAAABAE)
+(https://www.google.com/url?sa=i&url=https%3A%2F%2Fbuiltin.com%2Fartificial-intelligence%2Fmachine-learning-examples-applications&psig=AOvVaw1Vvi69CSeD26BHzBBiYn-F&ust=1681077340859000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCJjeiaCjm_4CFQAAAAAdAAAAABAE)
 
 </h>PROBLEM STATEMENT</h>
 

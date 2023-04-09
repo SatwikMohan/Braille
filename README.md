@@ -1,6 +1,6 @@
 ** Mobile Application in MobileApp Branch
 
-** Machine Learning model for writing purposes (trained on pre-available dataset) in ML-Model Branch
+** Machine Learning model (trained on pre-available dataset) in ML-Model Branch
 
 ** Website in Web Branch
 

@@ -36,4 +36,4 @@ The website would be used for retrieving the data written by the user and to sto
 
 Project Presentation - https://docs.google.com/presentation/d/1X2c0iVtwpYd7TAPH-j2HdOvQCjGreja9eGqSJnXf82Q/edit?usp=sharing
 
-Machine learning Braille Script to English Text Api - http://shuvam23dotrec.pythonanywhere.com/predict
+Machine learning Braille Script to English Text Api based on deep learning - http://shuvam23dotrec.pythonanywhere.com/predict

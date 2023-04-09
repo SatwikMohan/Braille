@@ -1,3 +1,9 @@
+** Mobile Application in MobileApp Branch
+
+** Machine Learning model for writing purposes (trained on pre-available dataset) in ML-Model Branch
+
+** Website in Web Branch
+
 # Braille
 
 # PROBLEM STATEMENT
@@ -31,9 +37,3 @@ The website would be used for retrieving the data written by the user and to sto
 Project Presentation - https://docs.google.com/presentation/d/1X2c0iVtwpYd7TAPH-j2HdOvQCjGreja9eGqSJnXf82Q/edit?usp=sharing
 
 Machine learning Braille Script to English Text Api - http://shuvam23dotrec.pythonanywhere.com/predict
-
-Mobile Application in MobileApp Branch
-
-Machine Learning model for writing purposes (trained on pre-available dataset) in ML-Model Branch
-
-Website in Web Branch

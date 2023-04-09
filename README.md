@@ -29,6 +29,7 @@ For writing, the application will give the image of the Braille Text written by 
 The website would be used for retrieving the data written by the user and to store it in the database in the format they like or they want it to be. The real-time data will be retrieved to a website so that the required data can be shared for public use such as articles, essays etc. Including that the website also allows users to upload a pdf script in English which will be converted to braille script for easy printing purposes. With the mobile application whatever the user writes will be shown live in the website. We can also add a text to speech recognition model which can read out loud the text that the user is writing so that he has track of his own work.
 
 Project Presentation - https://docs.google.com/presentation/d/1X2c0iVtwpYd7TAPH-j2HdOvQCjGreja9eGqSJnXf82Q/edit?usp=sharing
+
 Machine learning Braille Script to English Text Api - http://shuvam23dotrec.pythonanywhere.com/predict
 
 Mobile Application in MobileApp Branch

@@ -6,6 +6,8 @@
 
 # Braille
 
+https://drive.google.com/drive/folders/14Ay0UGJLHQYN7z3OR_D9E3Kp5J9V7V5-?usp=sharing
+
 # PROBLEM STATEMENT
 
 With the use of efficient software and hardware we will allow a blind person to read and write using a phone screen. For normal users they can even convert their own text to braille format for printing purposes using an efficient website.
